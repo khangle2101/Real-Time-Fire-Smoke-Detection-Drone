@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <i>Ho Chi Minh City University of Technology and Education (HCMUTE)</i>
+  <i>Ho Chi Minh City University of Technology and Engineering (HCMUTE)</i>
 </p>
 
 ---
