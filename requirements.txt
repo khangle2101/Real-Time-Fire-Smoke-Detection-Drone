@@ -1,0 +1,36 @@
+# ================================================
+# Drone Forest Fire Detection - Dependencies
+# Ground Control Station (Laptop - Python 3.11)
+# ================================================
+
+# Web Framework
+flask>=2.0.0
+flask-socketio>=5.0.0
+python-socketio>=5.0.0
+eventlet>=0.33.0
+
+# MAVLink Communication
+pymavlink>=2.4.0
+pyserial>=3.5
+
+# Computer Vision
+opencv-python>=4.5.0
+numpy>=1.19.0
+
+# Telegram Alerts
+requests>=2.25.0
+
+# Utilities
+python-dateutil>=2.8.0
+
+# ================================================
+# Jetson Nano Only (Python 3.6.9)
+# Install separately on Jetson Nano:
+# ================================================
+# tensorrt          (pre-installed with JetPack)
+# pycuda            (pip3 install pycuda)
+# gi                (system package: python3-gi)
+# flask             (pip3 install flask)
+# opencv-python     (pip3 install opencv-python)
+# numpy             (pip3 install numpy)
+# requests          (pip3 install requests)
