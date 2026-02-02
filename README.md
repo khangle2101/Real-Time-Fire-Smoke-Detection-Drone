@@ -57,7 +57,7 @@ This project develops an automated forest fire surveillance system using UAV dro
 ### System Overview
 
 <p align="center">
-  <img src="SYSTEM OVERVIEW.jpg" alt="System Overview" width="1500"/>
+  <img src="docs/images/SYSTEM OVERVIEW.jpg" alt="System Overview" width="1500"/>
 </p>
 
 The system consists of two main components:
@@ -73,7 +73,7 @@ Communication channels:
 ### Hardware Connection Diagram
 
 <p align="center">
-  <img src="HARDWARE_CONNECTION DIAGRAM.jpg" alt="Hardware Connection Diagram" width="1500"/>
+  <img src="docs/images/HARDWARE_CONNECTION DIAGRAM.jpg" alt="Hardware Connection Diagram" width="1500"/>
 </p>
 
 **Key Components:**
@@ -91,7 +91,7 @@ Communication channels:
 ### Software Architecture
 
 <p align="center">
-  <img src="SOFTWARE ARCHITECTURE.jpg" alt="Software Architecture" width="1500"/>
+  <img src="docs/images/SOFTWARE ARCHITECTURE.jpg" alt="Software Architecture" width="1500"/>
 </p>
 
 **Jetson Nano (Python 3.6.9):**
@@ -106,7 +106,7 @@ Communication channels:
 ### Cascaded AI Detection Workflow
 
 <p align="center">
-  <img src="CASCADED AI DETECTION WORKFLOW.jpg" alt="Cascaded AI Detection Workflow" width="1500"/>
+  <img src="docs/images/CASCADED AI DETECTION WORKFLOW.jpg" alt="Cascaded AI Detection Workflow" width="1500"/>
 </p>
 
 **Two-Stage Detection Pipeline:**
@@ -127,7 +127,7 @@ This cascaded approach:
 ### Auto Loiter Workflow
 
 <p align="center">
-  <img src="AUTO LOITER WORKFLOW.jpg" alt="Auto Loiter Workflow" width="1500"/>
+  <img src="docs/images/AUTO LOITER WORKFLOW.jpg" alt="Auto Loiter Workflow" width="1500"/>
 </p>
 
 When smoke is detected during an autonomous mission:
@@ -142,7 +142,7 @@ When smoke is detected during an autonomous mission:
 ### Data Fusion (AI + Pixhawk)
 
 <p align="center">
-  <img src="DATA FUSION (AI + PIXHAWK).jpg" alt="Data Fusion" width="1500"/>
+  <img src="docs/images/DATA FUSION (AI + PIXHAWK).jpg" alt="Data Fusion" width="1500"/>
 </p>
 
 The system fuses data from multiple sources:
@@ -155,7 +155,7 @@ The system fuses data from multiple sources:
 ### Telegram Alert System
 
 <p align="center">
-  <img src="TELEGRAM ALERT.jpg" alt="Telegram Alert" width="1500"/>
+  <img src="docs/images/TELEGRAM ALERT.jpg" alt="Telegram Alert" width="1500"/>
 </p>
 
 **Alert Features:**
