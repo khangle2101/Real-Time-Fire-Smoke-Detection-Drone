@@ -215,6 +215,12 @@ When fire is confirmed (Stage 2), an urgent alert is sent with higher priority n
 
 The Web GCS shows fire confirmation with captured snapshots and detection history.
 
+### Web UI (Ground Control Station)
+
+<p align="center">
+  <img src="docs/images/WEB UI.jpg" alt="Web UI" width="100%"/>
+</p>
+
 ### Telegram Alert System Flow
 
 <p align="center">
