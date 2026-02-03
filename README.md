@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <i>Ho Chi Minh City University of Technology and Education (HCMUTE) - Graduation Thesis 2025</i>
+  <i>Ho Chi Minh City University of Technology and Engineering (HCMUTE) - Graduation Thesis 2025</i>
 </p>
 
 ---
@@ -174,7 +174,7 @@ When smoke is detected during an autonomous mission:
 ### Final Hardware Product
 
 <p align="center">
-  <img src="docs/images/FINAL HARDWARE PRODUCT.jpg" alt="Final Hardware Product" width="100%"/>
+  <img src="docs/images/FINAL HARDWARE PRODUCT.jpg" alt="Final Hardware Product" width="50%"/>
 </p>
 
 The complete drone system with all components integrated and ready for field testing.
@@ -182,7 +182,7 @@ The complete drone system with all components integrated and ready for field tes
 ### Smoke Detection Alert (Telegram)
 
 <p align="center">
-  <img src="docs/images/SMOKE ALERTS VIA TELEGRAM.jpg" alt="Smoke Alerts via Telegram" width="100%"/>
+  <img src="docs/images/SMOKE ALERTS VIA TELEGRAM.jpg" alt="Smoke Alerts via Telegram" width="50%"/>
 </p>
 
 When smoke is detected, the system immediately sends a Telegram alert with:
@@ -202,7 +202,7 @@ The Web GCS displays real-time detection status with live video feed and telemet
 ### Fire Confirmation Alert (Telegram)
 
 <p align="center">
-  <img src="docs/images/FIRE CONFIRMATION VIA TELEGRAM.jpg" alt="Fire Confirmation via Telegram" width="100%"/>
+  <img src="docs/images/FIRE CONFIRMATION VIA TELEGRAM.jpg" alt="Fire Confirmation via Telegram" width="50%"/>
 </p>
 
 When fire is confirmed (Stage 2), an urgent alert is sent with higher priority notification.
@@ -393,10 +393,9 @@ Get current smoke pause status and location.
 
 | Name | Role | Contribution |
 |------|------|--------------|
-| **Le Hoang Khang** | Team Leader | System architecture, AI pipeline, Edge optimization, Web GCS |
-| **Nguyen Viet Khue** | Member | Hardware integration, Drone assembly, Flight testing |
+| **Le Hoang Khang** | Team Leader | System architecture, AI pipeline, Edge optimization, Web GCS, Hardware integration, Drone assembly, Flight testing |
+| **Nguyen Viet Khue** | Member | Flight testing, Web GCS |
 
-**Advisor:** [Faculty of Electrical and Electronics Engineering, HCMUTE]
 
 ---
 
